@@ -1,7 +1,7 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -10,5 +10,7 @@ A website that offers fitness training services.
 ## Website
 https://dani-hartley.github.io/run-buddy/
 
-## Contribution 
+## Contribution
 Made with ❤️ by Dani Hartley
+
+### ©️2019 Run Buddy, Inc 
